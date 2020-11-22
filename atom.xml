@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-11-20T13:31:17.624Z</updated>
+  <updated>2020-11-22T13:02:23.275Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,41 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>kaikai</title>
+    <title>Hello World!</title>
     <link href="http://example.com/2020/11/20/kaikai/"/>
     <id>http://example.com/2020/11/20/kaikai/</id>
     <published>2020-11-20T13:11:40.000Z</published>
-    <updated>2020-11-20T13:31:17.624Z</updated>
+    <updated>2020-11-22T13:02:23.275Z</updated>
     
-    <content type="html"><![CDATA[<h1>asdfghjkl</h1><p>😃</p><p>😄</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;asdfghjkl&lt;/h1&gt;
-&lt;p&gt;😃&lt;/p&gt;
-&lt;p&gt;😄&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/11/20/hello-world/"/>
-    <id>http://example.com/2020/11/20/hello-world/</id>
-    <published>2020-11-20T12:58:44.470Z</published>
-    <updated>2020-11-20T13:24:26.985Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2><h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a class="header-anchor" href="#Run-server">¶</a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files">¶</a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites">¶</a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1>关于  :  为什么更新了Blog 🐵</h1><hr><p>我昨天和创新说，整理Markdown文档要花的时间有点多，等之后再更新😐。<br><br>但是今天看到你们开始组队分享友链了，但我这里几乎什么都没有😯。<br><br>所以我改了些最基本的个人信息👤，以防你们认不出我😋。<br></p><hr><h2 id="等有时间写点什么呢？"><a class="header-anchor" href="#等有时间写点什么呢？">¶</a>等有时间写点什么呢？</h2><h3 id="目前已有的Projects："><a class="header-anchor" href="#目前已有的Projects：">¶</a>目前已有的Projects：</h3><h4 id="Markdown文档"><a class="header-anchor" href="#Markdown文档">¶</a>Markdown文档</h4><ul><li><strong>读书笔记</strong></li><li>部分平时写的<strong>随笔</strong>？</li><li>整理的 <strong>IELTS</strong> 阅读词汇</li></ul><h4 id="Doodles"><a class="header-anchor" href="#Doodles">¶</a>Doodles</h4><ul><li><strong>《实验室的生活没有那么坏》</strong></li><li><strong>《小丁的生活》</strong> 系列</li></ul><hr><h3 id="可规划："><a class="header-anchor" href="#可规划：">¶</a>可规划：</h3><ul><li>[ ]  阅读的<strong>书单</strong></li><li>[ ]  <strong>Classical  Music</strong></li><li>[ ]  iOS &amp; Mac OS 的 <strong>APP</strong></li><li>[ ]  学习<strong>英语</strong>的笔记</li></ul><hr><h3 id="再说一点点"><a class="header-anchor" href="#再说一点点">¶</a>再说一点点</h3><p>好像还有很多可以写在这里的事情喔，不过在这里花的时间有点久了，先这样啦💨。<br><br>如果你们有什么想让我写在这里的，可以随时告诉我😄。<br></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1&gt;关于  :  为什么更新了Blog 🐵&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;我昨天和创新说，整理Markdown文档要花的时间有点多，等之后再更新😐。&lt;br&gt;&lt;br&gt;
+但是今天看到你们开始组队分享友链了，但我这里几乎什么都没有😯。&lt;br&gt;&lt;br&gt;
+所以我改了些最基本的个人信息</summary>
       
     
     
